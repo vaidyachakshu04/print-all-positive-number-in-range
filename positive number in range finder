@@ -1,0 +1,5 @@
+range=range(-4,19)
+
+if num >= 0:
+		print(range)
+  
